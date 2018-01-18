@@ -2,6 +2,6 @@
 Let's Study!!!
 
 
-This repository is for history of what I have studied about Javascript.
+This repository is to remember what I have studied about Javascript.
 
 
