@@ -1,3 +1,8 @@
+//simple use
+setTimeout(alert, 1500, 'Hello world!');
+
+
+//  index.html + event + settimeout
 var timeoutID;
 
 function delayedAlert() {
